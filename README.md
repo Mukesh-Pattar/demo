@@ -1,2 +1,3 @@
 # demo
-1sr repoditory
+1sr repository
+mukesh pattar
